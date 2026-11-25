@@ -1,0 +1,14 @@
+# Postavke i skillovi za Claude Code (Impeccable, Taste Skill, Ponytail)
+.claude/
+
+# Radni fajlovi skillova (screenshotovi, izvještaji, keš)
+.impeccable/
+.taste-skill/
+.agents/
+skills/
+
+# Sistem i editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
